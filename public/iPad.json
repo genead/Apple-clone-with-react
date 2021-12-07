@@ -1,0 +1,21 @@
+{
+    "products":[
+        {
+        "product_url": "iPad",
+        "product_img": "https://www.apple.com/v/ipad/home/br/images/overview/hero/ipad_mini__dn6g8b0hw8om_medium_2x.jpg",
+        "product_link": "https://www.apple.com/ipad/",
+        "product_name": "iPad",
+        "product_brief_description": "iPad mini Mega power. Mini sized.",
+        "starting_price": "$499",
+        "product_description": "Our thinnest, lightest notebook, completely transformed by the Apple M1 chip. CPU speeds up to 3.5x faster. GPU speeds up to 5x faster. Our most advanced Neural Engine for up to 9x faster machine learning. The longest battery life ever in a MacBook Air. And a silent, fanless design. This much power has never been this ready to go."
+        },
+        {
+        "product_url": "iPad Pro",
+        "product_img": "https://www.apple.com/v/ipad-pro/ah/images/overview/experience/intro_summary_static__epib5tclp926_large.png",
+        "product_name": "iPad Pro",
+        "product_brief_description": "iPad Pro The ultimate iPad experience.",
+        "starting_price": "$799",
+        "product_description": "The ultimate iPad experience. Now with breakthrough M1 performance, a breathtaking XDR display, and blazing ‑fast 5G wireless. Buckle up."
+        }
+    ]
+}

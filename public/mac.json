@@ -1,0 +1,30 @@
+{
+    "products":[
+        {
+        "product_url": "MacBook Air",
+        "product_img": "https://www.apple.com/v/macbook-air/m/images/shared/router_continuity__euk1phbcdfee_large_2x.jpg",
+        "product_link": "https://www.apple.com/macbook-air/",
+        "product_name": "MacBook Air",
+        "product_brief_description": "Lots to love. Less to spend.",
+        "starting_price": "$899",
+        "product_description": "Our thinnest, lightest notebook, completely transformed by the Apple M1 chip. CPU speeds up to 3.5x faster. GPU speeds up to 5x faster. Our most advanced Neural Engine for up to 9x faster machine learning. The longest battery life ever in a MacBook Air. And a silent, fanless design. This much power has never been this ready to go."
+        },
+        {
+        "product_url": "MacBook Pro",
+        "product_img": "https://www.apple.com/v/mac/home/bj/images/overview/hero/hero_macbook_pro_14_16__0y2t2v3g4hu2_medium_2x.jpg",
+        "product_name": "MacBook Pro",
+        "product_brief_description": "Supercharged for pros.",
+        "starting_price": "$1999",
+        "product_description": "Just trade in your eligible computer for credit or recycle it for free. It’s good for you and the planet"
+        },
+        {
+        "product_url": "iMac",
+        "product_img": "https://www.apple.com/v/imac/n/images/overview/hero__f3p815tyyz2a_large.jpg",
+        "product_link": "https://www.apple.com/imac/",
+        "product_name": "iMac",
+        "product_brief_description": "24-inch model  Say hello.",
+        "starting_price": "$1299",
+        "product_description": "Our Small Business Team is your team. Our Small Business Experts are ready to help. They’ll advise you on the devices to fit your budget, including special pricing,* and find you the best financing option. All backed by ongoing support to give you much-needed peace of mind."
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "products":[
+        {
+        "product_url": "Apple TV 4K",
+        "product_img": "https://www.apple.com/v/apple-tv-4k/u/images/overview/hero/tv__b90pae94th5y_large.png",
+        "product_link": "https://www.apple.com/apple-tv-4k/",
+        "product_name": " Apple TV 4K", 
+        "product_brief_description": "A higher definition of TV",
+        "starting_price": "$179",
+        "product_description": "Apple TV 4K brings the best of TV together with your favorite Apple devices and services — in a powerful experience that will transform your living room."
+        },
+        {
+        "product_url": "Apple TV HD",
+        "product_img": "https://www.apple.com/v/tv-home/b/images/overview/sizzle_endframe__d1j42ok2ntyu_large.jpg",
+        "product_link": "https://www.apple.com/imac/",
+        "product_name": "Apple TV HD",
+        "product_brief_description": "The future hits home.",
+        "starting_price": "$299",
+        "price_range": "From $24.83/mo. for 6 mo.*",
+        "product_description": "Simply connect your favorite devices and transform your house into a remarkably smart, convenient, and entertaining home. Control lights, locks, and thermostats with your iPhone — or just your voice. Play any song, in any room, from anywhere. And elevate movie night with theater-like picture and sound. All with the security and privacy of Apple."
+        }
+    ]
+}

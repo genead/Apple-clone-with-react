@@ -1,0 +1,21 @@
+{
+    "products":[
+        {
+        "product_url": "Apple Watch SE",
+        "product_img": "https://www.apple.com/v/watch/aq/images/overview/se/tile-watch-se__knji2d25x8qe_medium_2x.jpg",
+        "product_link": "https://www.apple.com/ipad/",
+        "product_name": "Apple Watch SE",
+        "product_brief_description": "Our largest display yet.  Over 50% more screen area than Series 3.",
+        "starting_price": "$279",
+        "product_description": "Buy an Apple Watch with GPS + Cellular.Get up to $100 back after activation.10"
+        },
+        {
+        "product_url": "Apple Watch",
+        "product_img": "https://www.apple.com/v/watch/aq/images/overview/series-7/hero_s7__ep2maoos292e_medium_2x.jpg",
+        "product_name": "Apple Watch",
+        "product_brief_description": "Full screen ahead.",
+        "starting_price": "$399",
+        "product_description": "The ultimate iPad experience. Now with breakthrough M1 performance, a breathtaking XDR display, and blazing‑fast 5G wireless. Buckle up."
+        }
+    ]
+}
