@@ -4,7 +4,7 @@ function Watch() {
     const[products, setProducts] = useState([]);
 
     useEffect(() => {
-        fetch("/Watch.json")
+        fetch("/watch.json")
             .then((res) => res.json())
             .then((products) => {
                 setProducts(() => products.products);
